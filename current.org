@@ -5,7 +5,6 @@
 \noindent Attendees: Colin, Malte, Scott, Alina, Maria, Takundei, Abhik, Prabhat, Kendra, Steffen, Mihail, Daniel, Marco\\
 \noindent Meeting Place: Nordmetall Servery, 2:15
 
-# people excused: Marie, Muhammad
 # \(\text{\addtocounter{section}{-1}}\)
 ** Info Points:
 1) Purpose of the round table

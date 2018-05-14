@@ -1,0 +1,38 @@
+\documentclass[a4paper,10pt]{article}
+% !TeX spellcheck = en_US
+% !TeX encoding = utf8
+% !TeX program = pdflatex
+\usepackage[documenttype=Minutes\ from\ Math\ Round\ Table\ Feedback, root=.]{usg}
+
+\newcommand{\officer}[2]{#1\\\href{mailto:#2@jacobs-university-usg.de}{#2@jacobs-university-usg.de}}
+\newcommand{\twoOfficer}[4]{\officer{#1}{#2}\\\officer{#3}{#4}}
+\newcommand{\chair}{\officer{Marco David}{marco.david}}
+\hypersetup{pdftitle="\text{AAC\_Minutes\_of\_Math\_Round\_Table\_Feedback\_\twodigit{\shortyear{\the\year}}\twodigit{\the\month}\twodigit{\the\day}}"}
+
+\begin{document}
+	\maketitle
+	\thispagestyle{main}
+	
+	\input{current}
+	\input{discussion}
+	
+	  \ \\\ \\
+  \begin{minipage}{0.5\textwidth}
+  	\begin{flushleft}
+  		On behalf of the\\
+  		Academic Affairs Committee\\
+  		Undergraduate Student Government\\\ \\
+  		\textbf{Project officer,}\\
+  		\officer{Colin Rothgang}{colin.rothgang}
+  	\end{flushleft}
+  \end{minipage}
+  \begin{minipage}{0.5\textwidth}
+  	\begin{flushright}
+  		Date: \today\\\ \\\ \\\ \\
+  		\textbf{USG AAC chair,}\\
+  		\chair
+  	\end{flushright}
+  \end{minipage}
+  \phantomsection
+	\label{theEnd}
+\end{document}

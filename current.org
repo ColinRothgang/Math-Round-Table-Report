@@ -1,0 +1,65 @@
+# To compile simply press <Cntl-c> <Cntl-e> <Cntl-b> l l 
+# #+options: num:nil
+
+* Minutes of the Meeting
+\noindent Attendees: Colin, Malte, Scott, Alina, Maria, Takundei, Abhik, Prabhat, Kendra, Steffen, Mihail, Daniel, Marco\\
+\noindent Meeting Place: Nordmetall Servery, 2:15
+
+# people excused: Marie, Muhammad
+# \(\text{\addtocounter{section}{-1}}\)
+** Info Points:
+1) Purpose of the round table
+2) Coming changes of the module system
+** Feedback:
+3) [@3] Feedback of courses per year:
+   1) 1st-year:
+      1) Math software lab is useless, if say mathematica skills are needed, teach them on demand
+      2) Want 7.5ects for analysis I
+      3) Mandatory tutorial, in which problems are solved together (perhaps as an option)
+      4) Also, helps the students checking themselves
+      5) Analysis II: Currently, homework was too computational
+      6) Have advanced linear algebra/introductory linear algebra
+      7) Levels of linear algebra: matrix algebra (applied), foundations of linear algebra (medium), introductory linear algebra (advanced)
+      8) Second part of linear algebra in second semester (additionally to what is taught now), like at other German universities
+      9) Undergraduate seminar was very good
+      10) Perhaps something similar in 6th semester
+   2) 2nd-year:
+      1) More ects for elements of stochastic processes, remove elements of probability from math study program
+      2) Real analysis is taught too slowly currently
+      3) Complex analysis is fine
+      4) Switch algebra and topology (4th vs. 3rd semester)
+      5) Calculus on manifolds should be in 4th semester as well
+      6) Numerical methods should be more computational
+      7) Applied core math module is fine
+   3) 3rd-year:
+      1) Not allowed to take non-major specialization classes
+      2) Not enough courses in 5th semester
+      3) Idea: offering classes that can also be taken by masters/physicists, ...
+      4) Better advice to students regarding specialization classes
+      5) Problem: no master. program
+      6) Want more specialization classes
+      7) Introductory Topology: second part was too quick and hand-waivy, why are smooth manifolds needed in topology, more about covering spaces
+      8) Going in direction of algebraic topology
+      9) Number theory: good, controversial: not really specialization class 
+      10) Calculus on manifolds: good
+4) General issues:
+   1) Some profs should be more open minded/careful
+   2) Grades are published late
+   3) Not enough classes in math, campus track need to take non math core module
+   4) Would be cool to be able to take other specialization/master classes instead of 4th core module
+5) TAs:
+   1) TAs are only given SA contracts and not enough hours, also too little guidance
+6) Differential equations: not taught well, too unstructured
+7) Under representation of females in math department (faculty)
+8) Not enough info about thesis work, expectations for thesis
+   1) Deadlines depends on supervisor
+9) Triangles:
+   1) Why are there no math triangles, like number theory. for anyone, math and politics
+10) Better options and advertisements (just talk to profs to get spots) for Worldtrack
+11) Better info/communication from faculty in general
+    1) Module coordinators not accessible
+12) Want lecture notes for all lectures
+    1) Suggestions: readings for each lecture announced
+    2) Even better: Lecture notes,
+       1) Either by professor
+       2) Or by a notes-taker (student), being payed and getting credits for it

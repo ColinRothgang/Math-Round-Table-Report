@@ -2,7 +2,7 @@
 # #+options: num:nil
 
 * Minutes of the Meeting
-\noindent Attendees: Colin, Malte, Scott, Alina, Maria, Takundei, Abhik, Prabhat, Kendra, Steffen, Mihail, Daniel, Marco\\
+\noindent Attendees: Colin, Malte, Scott, Alina, Maria, Takundei, Abhik, Prabhat, Kendra, Steffen, Mihail, Daniel, Marco, Aiman, Deepak\\
 \noindent Meeting Place: Nordmetall Servery, 2:15
 
 # \(\text{\addtocounter{section}{-1}}\)

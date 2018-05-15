@@ -15,14 +15,15 @@ There was positive feedback for the following classes/modules:
 
 and negative feedback for (except for the classes already mentioned, that should be dropped):
 1) Real Analysis, taught too slowly
-2) Introductory Topology, second part was too fast and hand-waivy, additionally too much time was lost teaching background on smoth manifolds
+2) Introductory Topology, second part was too fast and hand-waivy, additionally too much time was lost teaching background on smooth manifolds
 3) Numerical methods, should cover programming to implement the methods, specifically in homework exercises
 4) Differential equations, too unstructured
+
 
 ** General feedback
 Furthermore, there were a number of general complaints and suggestions brought up:
 1) There are not enough math classes, campus track students are forced to take a non-math core module
-2) It would be nice if students were allowed to take several specialization or graduate classes instead of a fourth core module, when choosing campustrack
+2) It would be nice if students were allowed to take several specialization or graduate classes instead of a fourth core module, when choosing Campus track
 3) There is an under-representation of females in the math department (faculty)
 4) Some professors should be more careful, when commenting on some students origins
 5) Grades are often published late
@@ -33,22 +34,35 @@ Furthermore, there were a number of general complaints and suggestions brought u
 10) There should be more and better options for World track, the existing options should be better advertised
 11) The communication from faculty should be improved in general
     1) In particular, the module coordinators were hardly accessible this semester
-12) There should be lecture notes for math classes
+12) There should be lecture notes or at least announced pre-readings for math classes
+
 
 ** Suggestions for changing the math study program
 The following changes have been suggested:
 1) First year structure
    1) Remove the math software lab
-   2) give 7.5ects for Analysis I
+   2) give 7.5 ects for Analysis I
    3) Add an advanced linear algebra class (like the current introductory linear algebra in third semester)
    4) This, advanced linear algebra class could be treated similarly to calculus with its different levels already existing
    5) Additionally, add a class linear algebra II in second semester to continue the class advanced linear algebra in first semester
    6) Then, the classes foundations of linear algebra (3rd semester) and introductory linear algebra (4th semester) are redundant
 2) Second year structure
-   1) Give elements of stochastic processes 5ects
-   2) Move introductory algebra to the third semester and Topology (or Calculus on Manifolds, this alternates) to the fourth
+   1) Remove Elements of probability
+   2) Give 5 ects for Elements of stochastic processes
+   3) Move introductory algebra to the third semester and Topology (or Calculus on Manifolds, this alternates) to the fourth
 3) Triangle classes:
-   1) There should be more math triangle classes
+   1) There should be more math triangle classes\\
+
+\paragraph{Discussion}
+Here the main points are removing the math software lab and giving more credits to Analysis I, replacing Foundations of -- and Introductory Linear Algebra, by two 5 ects advanced linear algebra classes throughout the first year and to remove Elements of Probability and instead give 5 ects to Elements of Stochastic Processes, having two class slots per week, instead of just one.  
+Also, the order in which students take algebra and Topology/Calculus on Manifolds should be changed.
+Overall, these changes amount to one additional class of 5 ects to be taught (the second linear algebra class) and
+furthermore move 5 major-related ects from second to the first year, however the overall amount of major-related credits remains the same. 
+These changes are needed however, in order to ensure that math students learn prerequisites, before taking classes requiring them and could also be useful to students in other majors. 
+Particularly, offering the proposed additional class "advanced linear algebra I" following the same idea that lead to establishing different difficulty/abstraction levels for the calculus classes, can be useful at least also for physics students.
+This is also the way linear algebra is taught at most German universities.
+Finally, these changes would help better matching the credits received for classes to the actual workload and to better balance the math education across different areas of mathematics. 
+
 
 ** Meta observations
 In this subsection the round table will be discussed as a method of gathering feedback from students.
@@ -58,6 +72,4 @@ The feedback was very extensive, however still somewhat detailed discussion were
 In particular, compared to the author's experience in the round table last year, 
 there were both more and more constructive feedback as well as more student participating in the round table (partially due to the fact that now also first year students were invited).
 Also, it proved to be useful to invite not only math students and to invite first year students. 
-All in all, the author would propose these student organized round-tables as a useful addition to current ways of gathering feedback.
-
-
+Therefore, the author wants to suggest these student organized round-tables as a useful addition to currently used ways of gathering feedback.

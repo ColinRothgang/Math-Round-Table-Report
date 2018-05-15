@@ -2,6 +2,9 @@
 # #+options: num:nil
 
 * Minutes of the Meeting
+In this section, the meeting is documented. The below feedback is presented (more or less) unfiltered and unsorted, the points are taken in chronological order of the meeting. 
+A discussion of the feedback with the main points to be changed, can be found in section \ref{sec:dis}. 
+
 \noindent Attendees: Colin, Malte, Scott, Alina, Maria, Takundei, Abhik, Prabhat, Kendra, Steffen, Mihail, Daniel, Marco, Aiman, Deepak\\
 \noindent Meeting Place: Nordmetall Servery, 2:15
 
@@ -10,9 +13,9 @@
 1) Purpose of the round table
 2) Coming changes of the module system
 ** Feedback:
-3) [@3] Feedback of courses per year:
-   1) 1st-year:
-      1) Math software lab is useless, if say mathematica skills are needed, teach them on demand
+3) [@3] Feedback about courses per year:
+   1) 1st year:
+      1) Math software lab is useless, if say Mathematica skills are needed, teach them on demand
       2) Want 7.5ects for analysis I
       3) Mandatory tutorial, in which problems are solved together (perhaps as an option)
       4) Also, helps the students checking themselves
@@ -22,18 +25,18 @@
       8) Second part of linear algebra in second semester (additionally to what is taught now), like at other German universities
       9) Undergraduate seminar was very good
       10) Perhaps something similar in 6th semester
-   2) 2nd-year:
+   2) 2nd year:
       1) More ects for elements of stochastic processes, remove elements of probability from math study program
       2) Real analysis is taught too slowly currently
       3) Complex analysis is fine
       4) Switch algebra and topology (4th vs. 3rd semester)
       5) Calculus on manifolds should be in 4th semester as well
-      6) Numerical methods should be more computational
+      6) Numerical methods should be more computational (and using programming)
       7) Applied core math module is fine
-   3) 3rd-year:
+   3) 3rd year:
       1) Not allowed to take non-major specialization classes
       2) Not enough courses in 5th semester
-      3) Idea: offering classes that can also be taken by masters/physicists, ...
+      3) Idea: offering classes that can also be taken by masters/physicists, \ldots
       4) Better advice to students regarding specialization classes
       5) Problem: no master. program
       6) Want more specialization classes
@@ -41,24 +44,23 @@
       8) Going in direction of algebraic topology
       9) Number theory: good, controversial: not really specialization class 
       10) Calculus on manifolds: good
-4) General issues:
+      11) Differential equations: currently not taught well, too unstructured
+4) Triangle classes:
+   1) Why are there no math triangles, like number theory. for anyone, math and politics
+5) General issues with teaching:
    1) Some professors should be more open minded/careful when making comments about students nationalities
    2) Grades are published late
    3) Not enough classes in math, campus track need to take non math core module
-   4) Would be cool to be able to take other specialization/master classes instead of 4th core module
-5) TAs:
-   1) TAs are only given SA contracts and not enough hours, also too little guidance
-6) Differential equations: not taught well, too unstructured
-7) Under representation of females in math department (faculty)
-8) Not enough info about thesis work, expectations for thesis
-   1) Deadlines depends on supervisor
-9) Triangles:
-   1) Why are there no math triangles, like number theory. for anyone, math and politics
-10) Better options and advertisements (just talk to profs to get spots) for Worldtrack
-11) Better info/communication from faculty in general
-    1) Module coordinators not accessible
-12) Want lecture notes for all lectures
-    1) Suggestions: readings for each lecture announced
-    2) Even better: Lecture notes,
-       1) Either by professor
-       2) Or by a notes-taker (student), being payed and getting credits for it
+   4) Therefore, it Would be nice if students were allowed to take other specialization/master classes instead of a 4th core module
+   5) TAs are only given SA contracts and not enough hours, also too little guidance
+   6) Under representation of females in math department (faculty)
+   7) Want lecture notes for all lectures
+      1) Suggestions: readings for each lecture announced
+      2) Even better: Lecture notes:\\
+	 Either by professor\\
+	 Or by a notes-taker (student), being payed and getting credits for it
+6) Not enough information about thesis work and expectations for thesis
+   1) Deadlines depend on supervisor
+7) Better options and advertisements of current options for World track
+8) Better info/communication from faculty in general
+   1) Module coordinators are not accessible

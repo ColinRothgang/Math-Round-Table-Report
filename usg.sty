@@ -1,4 +1,4 @@
-\ProvidesPackage{usg}
+\ProvidesPackage{usg-agenda}
 
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
@@ -8,6 +8,7 @@
 \RequirePackage{etoolbox}
 \usepackage{kvoptions}
   \SetupKeyvalOptions{%
+	  family=usg,
 	  prefix=usg@,
   }
 \DeclareStringOption[AAC]{unit}[AAC]
@@ -43,15 +44,16 @@
 \author{\vspace{-5ex}}
 \date{\vspace{-5ex}}
 \usepackage[headheight=30pt, includefoot]{geometry}
+%\AtBeginDocument{\vspace*{2\baselineskip}}
 
 \usepackage{eurosym}
 \DeclareUnicodeCharacter{20AC}{\euro}
 
 \usepackage{fancyhdr}
 \fancypagestyle{main}{
-	\lhead{\includegraphics[width=4cm]{\usg@root/jacobs-logo}}
-	\chead{\textcolor{Blue}{\usg@longUnit\\Undergraduate Student Government\\Jacobs University Bremen}}
-	\rhead{\includegraphics[width=2.5cm]{\usg@root/usg-logo.jpg}}
+	\lhead{\ifcase \thepage \or\includegraphics[width=4cm]{\usg@root/jacobs-logo}\or\newgeometry{headheight=10pt, includefoot}\usg@title\else \usg@title \fi}
+	\chead{\ifcase \thepage \or \textcolor{Blue}{\usg@longUnit\\Undergraduate Student Government\\Jacobs University Bremen}\else \fi}
+	\rhead{\ifcase \thepage \or \includegraphics[width=2.5cm]{\usg@root/usg-logo.jpg}\else \usg@longUnit \fi}
 	\lfoot{}
     % shouldn't be longer than a page	
 	%\cfoot{\ifcase \thepage \or \else Page \thepage{} of \pageref{theEnd} \fi}

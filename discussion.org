@@ -1,4 +1,4 @@
-* Discussion of the feedback
+# * Discussion of the feedback
 \label{sec:dis}
 In this section the feedback will be discussed and suggestions of improvements of the math study program, will be presented. 
 We will start with class specific feedback, then discuss general feedback and finally suggested changes of the undergraduate math program structure. 

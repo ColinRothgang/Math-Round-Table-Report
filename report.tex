@@ -3,11 +3,13 @@
 % !TeX encoding = utf8
 % !TeX program = pdflatex
 \usepackage[documenttype=Report\ about\ Math\ Round\ Table\ Feedback, title=Math\ Students\ Round\ Table\ Feedback\ Report, root=.]{usg}
+\usepackage[titletoc, title]{appendix}
 
 \newcommand{\officer}[2]{#1\\\href{mailto:#2@jacobs-university-usg.de}{#2@jacobs-university-usg.de}}
 \newcommand{\twoOfficer}[4]{\officer{#1}{#2}\\\officer{#3}{#4}}
 \newcommand{\chair}{\officer{Marco David}{marco.david}}
 \hypersetup{pdftitle="\text{AAC\_Report\_about\_Math\_Round\_Table\_Feedback\_\twodigit{\shortyear{\the\year}}\twodigit{\the\month}\twodigit{\the\day}}"}
+\setlength{\headheight}{12pt}
 
 \year=2018
 \month=5
@@ -15,11 +17,17 @@
 \newtheorem*{rem}{Remark}
 
 \begin{document}
-	\maketitle
-	\thispagestyle{main}
+	\label{sec:dis}
+	%\section{Motivation}
+	%\noindent In this section the feedback will be discussed and suggestions for improvements of the math study program, will be presented. 
+	%We will start with class specific feedback, then discuss general feedback and finally suggested changes of the undergraduate math program structure. 
+	%Finally, the author will give some meta feedback about the round table.
+	\tableofcontents
 	
-	\input{current}
 	\input{discussion}
+	\begin{appendices}
+		\input{current}
+	\end{appendices}
 	
 	  \ \\\ \\
   \begin{minipage}{0.5\textwidth}
@@ -38,6 +46,7 @@
   		\chair
   	\end{flushright}
   \end{minipage}
+
   \phantomsection
 	\label{theEnd}
 \end{document}

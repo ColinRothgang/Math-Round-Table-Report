@@ -38,12 +38,14 @@
 \usepackage{graphicx}
 \usepackage[dvipsnames]{color}
 \definecolor{Blue}{rgb}{0.0, 0.02, 0.15}
+\usepackage{titling}
+\setlength{\droptitle}{20pt}
 
 %opening
 \title{\textbf{\usg@title}}
 \author{\vspace{-5ex}}
 \date{\vspace{-5ex}}
-\usepackage[headheight=30pt, includefoot]{geometry}
+\usepackage[headheight=10pt, includefoot]{geometry}
 %\AtBeginDocument{\vspace*{2\baselineskip}}
 
 \usepackage{eurosym}
@@ -51,7 +53,7 @@
 
 \usepackage{fancyhdr}
 \fancypagestyle{main}{
-	\lhead{\ifcase \thepage \or\includegraphics[width=4cm]{\usg@root/jacobs-logo}\or\newgeometry{headheight=10pt, includefoot}\usg@title\else \usg@title \fi}
+	\lhead{\vspace*{-20\baselineskip}\ifcase \thepage \or\includegraphics[width=4cm]{\usg@root/jacobs-logo}\else \usg@title \fi}
 	\chead{\ifcase \thepage \or \textcolor{Blue}{\usg@longUnit\\Undergraduate Student Government\\Jacobs University Bremen}\else \fi}
 	\rhead{\ifcase \thepage \or \includegraphics[width=2.5cm]{\usg@root/usg-logo.jpg}\else \usg@longUnit \fi}
 	\lfoot{}
@@ -62,6 +64,10 @@
 	\renewcommand{\headrulewidth}{0pt}
 }
 \pagestyle{main}
+\AtBeginDocument{
+	\maketitle
+	\thispagestyle{main}
+}
 
 \usepackage{hyperref}
 
